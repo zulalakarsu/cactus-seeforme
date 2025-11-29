@@ -1,5 +1,4 @@
-# 👁️ SeeForMe - AI Vision Assistant for the Visually Impaired
-<img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/0c10f3ef-619f-4d00-ac60-15968cfbad49" />
+# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/0c10f3ef-619f-4d00-ac60-15968cfbad49" /> SeeForMe - AI Vision Assistant for the Visually Impaired
 
 **Empowering independence through AI-powered scene description and voice assistance**
 
