@@ -1,4 +1,4 @@
-# <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/0c10f3ef-619f-4d00-ac60-15968cfbad49" /> SeeForMe - On Device AI Vision Assistant for the Visually Impaired
+# SeeForMe - On Device AI Vision 
 
 ![SeeForMe](https://img.shields.io/badge/SeeForMe-AI%20Vision%20Assistant-blue) ![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-green) ![React Native](https://img.shields.io/badge/React%20Native-0.81-blue) ![Expo](https://img.shields.io/badge/Expo-54-lightblue) ![AI](https://img.shields.io/badge/AI-LFM2--VL--450M-purple)
 
